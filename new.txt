@@ -1,3 +1,4 @@
 first test file
 second error
 second line entered
+file 2
